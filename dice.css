@@ -1,0 +1,111 @@
+body{
+  background: radial-gradient(#f9d349,20%,#d57e12);
+
+}
+.header{
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  width: 300px;
+}
+.head1{
+  font-size: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+.wrapper{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+h1{
+  margin: 15px;
+  font-size: 6rem;
+  font-family: 'Permanent Marker', cursive;
+  color:white;
+}
+.dice-area{
+  margin: 0px 50px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  display: inline-block;
+}
+p{
+  font-size: 2.3rem;
+  color: white;
+
+}
+.icon{
+  width: 30px;
+}
+.img1{
+  width: 200px;
+}
+.bottom {
+  padding-top: 20px;
+  align-items: center;
+}
+.butn {
+   background: transparent;
+    color: white;
+    border: 1px solid #f5dca8;
+    padding: 9px 20px;
+    border-radius: 30px;
+    line-height: 1.4;
+    font-size: 25px;
+    font-weight: 500;
+  padding: 16px 25px 16px 25px;
+  margin-left: 43%;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+}
+
+.butn:hover {
+  color: black;
+  transform: scale(1.2);
+    border: 1px solid #f5dca8;
+    background: white;
+    transition: .4s;
+}
+
+
+/* .container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  body {
+    background-color: #393E46;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  img {
+    width: 80%;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  } */
